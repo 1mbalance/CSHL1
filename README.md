@@ -1,6 +1,6 @@
 # CS HL One Year Lessons
 
-This repository contains Java code examples and assignments from one year of CS HL (Higher Level) lessons. The code is organized into various topics such as arrays, conditionals, loops, methods, reading files, recursion, and variables.
+This repository contains Java code examples and assignments from one year of CS HL (Higher Level) lessons. The code is organized into various topics such as variables, conditionals, loops, arrays, methods, recursion, and reading files.
 
 ## Getting Started
 
